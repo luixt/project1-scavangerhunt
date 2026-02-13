@@ -31,7 +31,7 @@ https://i.imgur.com/wPdq5op.gif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+As the first project it became extremely challenging to navigate and operate Xcode, particularly managing the storyboard. With further practice the process becomes faster.
 
 ## License
 
